@@ -1,1 +1,7 @@
-Replace this with your name, and include a header.
+# First day at GitHub
+
+This is Bryant
+
+## Intro
+
+### Hello
